@@ -18,3 +18,15 @@ body {
   width: 25%;
   left: 38%;
 }
+
+.embed-img {
+  width: 200px;
+  padding: 5px;
+  margin: auto;
+}
+
+#loader {
+  display: none;
+  padding-top: 55%;
+  font-size: 40px;
+}
